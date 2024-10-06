@@ -1,0 +1,19 @@
+.satu{
+    color: blue;
+}
+.dua{
+    font-family: sans-serif;
+}
+.tiga{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+}
+.empat{
+    font-weight: bold;
+}
+.lima{
+    font-style: italic;
+}
+.enam{
+    font-size: 20px;
+}

@@ -1,0 +1,27 @@
+table :hover{
+    background-color: cornflowerblue;
+}
+.satu{
+    border: 1px solid;
+    width: 30%;
+    border-collapse: collapse;
+    background-color: blue;
+    color: white;
+    padding-left: 10px;
+    }
+    .dua{
+        border: 1px solid;
+        width: 30%;
+        border-collapse: collapse;
+        background-color: rgb(170, 169, 169);
+        color: black;
+        padding-left: 10px;
+        }
+        .tiga{
+            border: 1px solid;
+            width: 30%;
+            border-collapse: collapse;
+            background-color: white;
+            color: black;
+            padding-left: 10px;
+            }

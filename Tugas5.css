@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.main {
+    display: flex;
+}
+
+.menu {
+    background-color: cadetblue;
+    width: 200px;
+    padding: 5px;
+}
+
+.menu p {
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+.menu a {
+    display: block;
+    color: purple;
+    text-decoration: none;
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+.content {
+    background-color: whitesmoke;
+    flex-grow: 1;
+    padding: 5px;
+}
+
+.content iframe {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.footer {
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
